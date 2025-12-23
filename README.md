@@ -1,6 +1,6 @@
-# Fast-AI
+#Quick-AI
 
-FastAI is a powerful AI-powered platform designed to transform your content creation process. With a suite of premium AI tools, it helps you write engaging articles, generate stunning images, and streamline your workflow—all in one place.
+QuickAI is a powerful AI-powered platform designed to transform your content creation process. With a suite of premium AI tools, it helps you write engaging articles, generate stunning images, and streamline your workflow—all in one place.
 
 ---
 
@@ -60,7 +60,7 @@ FastAI is a powerful AI-powered platform designed to transform your content crea
 
 ```bash
 # Clone the repository
-git clone https://github.com/sumu9897/Quick-AI.git
+git clone https://github.com/037Gyanprakash/Quick-AI.git
 cd Quick-AI
 
 # Install dependencies
@@ -72,7 +72,7 @@ npm install
 ---
 
 ## 🔗 Links
-* 🐙 [GitHub Repository](https://github.com/sumu9897/Quick-AI)
+* 🐙 [GitHub Repository](https://github.com/037Gyanprakash/Quick-AI)
 * 📧 Contact: [gpy4028@gmail.com](gyanujiyadav@gmail.com)
 
 
